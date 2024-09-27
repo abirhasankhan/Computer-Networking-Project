@@ -1,6 +1,6 @@
 # University Network Design Project
 
-<img src="./network design.PNG" alt="University Network Design" width="1000" height="800">
+<img src="./network design.PNG" alt="University Network Design" width="1000" height="600">
 
 ## Project Overview
 
