@@ -1,6 +1,6 @@
 # University Network Design Project
 
-![University Network Design](https://via.placeholder.com/800x400.png?text=Network+Design+Diagram)
+<img src="./network design.PNG" alt="University Network Design" width="1000" height="800">
 
 ## Project Overview
 
